@@ -1,6 +1,9 @@
 # Express-Database_v3
 
-/hello/show/?id=1というように、クエリパラメータでIDの値を指定して、アクセスするとレコード内容が表示される
+`/hello/show/?id=1`というように、クエリパラメータでIDの値を指定して、アクセスするとレコード内容が表示される
+
+show.ejsとhello.jsを編集
+
 
 ![1](https://user-images.githubusercontent.com/28942665/34536686-4ab7bf3c-f109-11e7-8db1-60e43a50d56a.JPG)
 
